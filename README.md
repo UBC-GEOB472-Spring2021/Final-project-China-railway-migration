@@ -1,5 +1,5 @@
 # Project-China-High-Speed-Railway
-Project Essay: ....
+Project Essay: https://blogs.ubc.ca/geob472finalproject/
 
 ## Part 1: HSR route from 2013 to 2019
 https://bobxhz.github.io/bobxhz-web/Final/overview.html
